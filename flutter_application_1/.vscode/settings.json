@@ -1,0 +1,6 @@
+{
+    "editor.suggest.showStructs": true,
+    "editor.suggest.showTypeParameters": true,
+    "editor.suggest.showReferences": true,
+    "editor.suggest.showProperties": true
+}
